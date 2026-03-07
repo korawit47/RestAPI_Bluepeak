@@ -216,20 +216,6 @@ Authorization: Bearer <token>
 
 ---
 
-# Learning Objectives
-
-This project demonstrates understanding of:
-
-* REST API design
-* Authentication with JWT
-* Middleware in Express
-* Database ORM with Prisma
-* Input validation
-* API documentation
-* Backend project structure
-
----
-
 # Author
 
 Korawit Sawasdee
